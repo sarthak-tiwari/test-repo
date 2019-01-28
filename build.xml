@@ -3,5 +3,9 @@
     <target name="compile">
         <javac/>
     </target>
+	
+	<target name="Test">
+        <javac/>
+    </target>
 
 </project>
