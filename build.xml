@@ -4,7 +4,7 @@
         <javac/>
     </target>
 	
-	<target name="Test">
+	<target name="test">
         <javac/>
     </target>
 
