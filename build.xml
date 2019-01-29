@@ -1,4 +1,4 @@
-<project>
+<project name="SER-516-S19 Project 1">
 
     <target name="compile">
         <javac/>

@@ -9,7 +9,6 @@ import java.lang.reflect.Method;
  * Class to create Frame and add all the tabs in the frame
  * @author: Sarthak Tiwari
  * @since:  1/19/2019
- * 
 */
 
 public class Frame_81 extends JFrame {
